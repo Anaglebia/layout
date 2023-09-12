@@ -17,6 +17,10 @@
 }
 .banner-topo h1{
     color: #202a65;
+    padding-top: 20px;
+}
+header{
+    background-color: #f8f8f8;
 }
 .png{
     width: 90px;
